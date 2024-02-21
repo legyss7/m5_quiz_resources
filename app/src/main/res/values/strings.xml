@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">hw5_QUIZ</string>
+    <string name="app_name">QUIZ</string>
+    <string name="continue_button">Продолжить</string>
 </resources>
